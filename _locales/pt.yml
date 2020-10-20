@@ -39,12 +39,12 @@ translations:
   contributing_support_button: "Apoiar Sass Guidelines"
   contributing_tweet_button: "Espalhar a palavra"
 
-  donate_content: "Se achou este Guia de Sass útil, por favor considere apoiá-lo."
-  donate_button: "Apoie o Guia de Sass"
+  donate_content: "Se achou estas diretrizes úteis, por favor considere apoiar o projeto."
+  donate_button: "Apoie o Projeto"
 
   note: "Nota"
 
-  image_color_functions: "Ilustração da diferença entre `lighten`/`darken` e `mix` por [KatieK](http://codepen.io/KatieK2/pen/tejhz/)"
+  image_color_functions: "Ilustração da diferença entre `lighten`/`darken` e `mix`, por [KatieK](http://codepen.io/KatieK2/pen/tejhz/)"
   image_order_poll: "Gráfico demonstrativo de como os programadores ordenam as suas declarações de CSS"
   image_sassdoc: "Documentação gerada por SassDoc"
   image_wallpaper: "Fundo de parede por [Julien He](https://twitter.com/julien_he)"
