@@ -46,6 +46,6 @@ Uma grande parte deste guia de estilo é, basicamente, opinião. Mas, tenho lido
 
 Contudo, acredito que diretrizes são feitas para serem expandidas. Expandindo a Sass Guidelines poderia ser tão simples quanto ter um documento dizendo que o código está seguindo instruções desta diretriz, exceto por algumas coisas. E em cada caso, regras específicas seriam explicadas abaixo.
 
-Um exemplo de uma extensão de guia de estilos pode ser achada no [SassDoc repository](https://github.com/SassDoc/sassdoc/blob/master/GUIDELINES.md):
+Um exemplo de uma extensão de guia de estilos pode ser achada no [repositório do SassDoc](https://github.com/SassDoc/sassdoc/blob/master/GUIDELINES.md):
 
-> [Esta](https://github.com/SassDoc/sassdoc/blob/master/GUIDELINES.md) é uma extensão para [Node Styleguide](https://github.com/felixge/node-style-guide) feita por Felix Geisendörfer. Qualquer coisa deste documento substitui o que poderia ser dito no Node Styleguide.
+> [Esta](https://github.com/SassDoc/sassdoc/blob/master/GUIDELINES.md) é uma extensão de [Node Styleguide](https://github.com/felixge/node-style-guide), feita por Felix Geisendörfer. Qualquer coisa deste documento substitui o que poderia ser dito, em Node Styleguide.
